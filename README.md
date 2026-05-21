@@ -41,8 +41,6 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="45" height="45"/>
-
   <!-- Backend -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
@@ -60,10 +58,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
 
   <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/wireshark.png" alt="Wireshark" width="45" height="45"/>
-  <img src="https://img.icons8.com/fluency/48/nmap.png" alt="Nmap" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/burp-suite.png" alt="Burp Suite" width="45" height="45"/>
   <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" width="45" height="45"/>
 
   <!-- Cloud & DevOps -->
