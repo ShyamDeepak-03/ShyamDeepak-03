@@ -34,7 +34,6 @@
 #         run: |
 #           echo Add other actions to build,
 #           echo test, and deploy your project.
-
 name: Generate Datas
 on:
   schedule: # execute every 12 hours
