@@ -1,75 +1,184 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**ShyamDeepak-03/ShyamDeepak-03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Animated Banner -->
+<img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Shyam%20Deepak&fontSize=70&color=0:0d1117,100:00ff41&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
 
-Here are some ideas to get you started:
+<!-- Typing SVG -->
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%F0%9F%94%90;Penetration+Tester+%F0%9F%A7%A8;CTF+Player+%26+Exploit+Developer;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hey%20Everyone! &animation=fadeIn&type=waving&color=gradient&height=100"/>
-</p>
+</div>
 
-<a href="https://www.instagram.com/_shyam_deepak_/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+---
 
-<h2>🚀 Some Tools I Have Used and Learned</h2>
+```bash
+┌──(shyamdeepak㉿kali)-[~]
+└─$ whoami
+```
 
-<p align="left">
+```
+> Cybersecurity enthusiast | Ethical Hacker | CTF Player
+> Passionate about breaking things (legally) to make them stronger.
+> Always in recon mode. Always learning. Never stopping.
+```
 
-  <!-- Languages -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" width="45" height="45"/>
+---
 
-  <!-- Frontend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="NextJS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="45" height="45"/>
-  <!-- Backend -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" width="45" height="45"/>
+<div align="center">
 
-  <!-- Database -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="45" height="45"/>
+## ⚡ `./skills --list`
 
-  <!-- Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" alt="Linux" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="45" height="45"/>
+</div>
 
-  <!-- Tools -->
-  <img src="https://img.icons8.com/color/48/metasploit.png" alt="Metasploit" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/kali-linux.png" alt="Kali Linux" width="45" height="45"/>
+<table align="center">
+<tr>
+<td valign="top" width="33%">
 
-  <!-- Cloud & DevOps -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/>
+### 🔴 Offensive Security
+```
+✔ Penetration Testing
+✔ Web App Exploitation
+✔ Network Scanning & Recon
+✔ Reverse Engineering
+✔ Exploit Development
+✔ Social Engineering
+```
 
-  <!-- Networking -->
-  <img src="https://img.icons8.com/color/48/network-card.png" alt="Networking" width="45" height="45"/>
-  <img src="https://img.icons8.com/color/48/cloud.png" alt="Cloud Security" width="45" height="45"/>
+</td>
+<td valign="top" width="33%">
 
-</p>
+### 🔵 Defensive Security
+```
+✔ Threat Analysis & SOC
+✔ Malware Analysis
+✔ Incident Response
+✔ SIEM / Log Analysis
+✔ Vulnerability Assessment
+✔ Firewall & IDS/IPS
+```
+
+</td>
+<td valign="top" width="33%">
+
+### 🟡 Dev & Tools
+```
+✔ Python  ✔ JavaScript
+✔ Bash Scripting  ✔ C/C++
+✔ React  ✔ Next.js
+✔ SQL  ✔ PHP
+✔ Docker  ✔ Git
+✔ Linux  ✔ Kali
+```
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 🛠️ Arsenal
+
+<!-- Languages -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="45" height="45" title="Bash"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45" title="C"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" height="45" title="C++"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45" height="45" title="TypeScript"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45" height="45" title="Java"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="45" height="45" title="PHP"/>
+<br/><br/>
+<!-- Web & Frameworks -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45" title="React"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45" height="45" title="Next.js"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45" title="HTML5"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45" title="CSS3"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="45" height="45" title="Bootstrap"/>
+<br/><br/>
+<!-- Tools & Platforms -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45" height="45" title="Linux"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45" height="45" title="Docker"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45" title="Git"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45" height="45" title="MongoDB"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code"/>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🗂️ `ls -la ./projects`
+
+</div>
+
+> 🔐 **[VulnScanner]** — Automated vulnerability scanner with CVE lookup and report generation  
+> 🕵️ **[PhishGuard]** — AI-powered phishing detection browser extension  
+> 🔑 **[CryptoVault]** — End-to-end encrypted note-taking app  
+> 🧨 **[CTF Writeups]** — Collection of my Capture The Flag solutions & methodologies  
+> 🛡️ **[NetSentry]** — Real-time network traffic anomaly detector  
+
+---
+
+<div align="center">
+
+## 📊 `cat /proc/github/stats`
+
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShyamDeepak-03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamDeepak-03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+
+<br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=ShyamDeepak-03&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamDeepak-03&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
+
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 Achievements & Certs
+
+![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
+![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![CEH](https://img.shields.io/badge/CEH-EC--Council-red?style=for-the-badge)
+![CTF Player](https://img.shields.io/badge/CTF-Player-00ff41?style=for-the-badge&logo=linux&logoColor=black)
+
+</div>
+
+---
+
+<div align="center">
+
+## 📡 `ping shyamdeepak --locate`
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamdeepak)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shyam_deepak_)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShyamDeepak-03)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your@email.com)
+
+</div>
+
+---
+
+<div align="center">
+
+```bash
+┌──(shyamdeepak㉿kali)-[~]
+└─$ echo "Thanks for visiting. Stay curious. Stay ethical. 🔐"
+
+Thanks for visiting. Stay curious. Stay ethical. 🔐
+```
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer"/>
+
+</div>
 
 ## 🐍 Contribution Snake
 
