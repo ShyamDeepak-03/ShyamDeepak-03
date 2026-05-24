@@ -16,15 +16,15 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Generate Snake
-        uses: Platane/snk@v3
+        uses: Platane/snk/svg-only@v3
         with:
           github_user_name: ShyamDeepak-03
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=00ff41&color_dots=#0d1117,#003b00,#006400,#00aa00,#00ff41
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ff41&color_dots=#0d1117,#003b00,#006400,#00aa00,#00ff41
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ff41&color_dots=#0d1117,#0a2e0a,#0e5c0e,#1db31d,#00ff41
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
         with:
           branch: output
           folder: dist
+          force: true
