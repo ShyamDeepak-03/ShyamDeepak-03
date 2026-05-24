@@ -181,5 +181,10 @@ Thanks for visiting. Stay curious. Stay ethical. 🔐
 </div>
 
 ## 🐍 Contribution Snake
-<img src="https://ghchart.rshah.org/00ff41/ShyamDeepak-03" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/ShyamDeepak-03/ShyamDeepak-03/output/github-contribution-grid-snake-dark.svg"/>
+  <img alt="snake" 
+    src="https://raw.githubusercontent.com/ShyamDeepak-03/ShyamDeepak-03/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
 
