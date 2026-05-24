@@ -20,7 +20,9 @@ jobs:
         with:
           github_user_name: ShyamDeepak-03
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=00ff41&color_dots=#161b22,#003300,#006600,#009900,#00ff41
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=ff0000&color_dots=#161b22,#003300,#006600,#009900,#00ff41
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Deploy
         uses: JamesIves/github-pages-deploy-action@v4
