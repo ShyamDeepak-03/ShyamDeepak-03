@@ -77,7 +77,7 @@
 
 <div align="center">
 
-## 🛠️ Arsenal
+## Arsenal
 
 <!-- Languages -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45" title="Python"/>
@@ -110,21 +110,21 @@
 
 <div align="center">
 
-## 🗂️ `ls -la ./projects`
+## `ls -la ./projects`
 
 </div>
 
-> 🔐 **[VulnScanner]** — Automated vulnerability scanner with CVE lookup and report generation  
-> 🕵️ **[PhishGuard]** — AI-powered phishing detection browser extension  
-> 🔑 **[CryptoVault]** — End-to-end encrypted note-taking app  
-> 🧨 **[CTF Writeups]** — Collection of my Capture The Flag solutions & methodologies  
-> 🛡️ **[NetSentry]** — Real-time network traffic anomaly detector  
+>  **[VulnScanner]** — Automated vulnerability scanner with CVE lookup and report generation  
+>  **[PhishGuard]** — AI-powered phishing detection browser extension  
+>  **[CryptoVault]** — End-to-end encrypted note-taking app  
+>  **[CTF Writeups]** — Collection of my Capture The Flag solutions & methodologies  
+>  **[NetSentry]** — Real-time network traffic anomaly detector  
 
 ---
 
 <div align="center">
 
-## 📊 `cat /proc/github/stats`
+## `cat /proc/github/stats`
 
 <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShyamDeepak-03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
 <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamDeepak-03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
@@ -143,7 +143,7 @@
 
 <div align="center">
 
-## 🏆 Achievements & Certs
+## Achievements & Certs
 
 ![Hack The Box](https://img.shields.io/badge/HackTheBox-9FEF00?style=for-the-badge&logo=hackthebox&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
@@ -156,7 +156,7 @@
 
 <div align="center">
 
-## 📡 `ping shyamdeepak --locate`
+## `ping shyamdeepak --locate`
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamdeepak)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/_shyam_deepak_)
@@ -171,16 +171,16 @@
 
 ```bash
 ┌──(shyamdeepak㉿kali)-[~]
-└─$ echo "Thanks for visiting. Stay curious. Stay ethical. 🔐"
+└─$ echo "Thanks for visiting. Stay curious. Stay ethical. "
 
-Thanks for visiting. Stay curious. Stay ethical. 🔐
+Thanks for visiting. Stay curious. Stay ethical. 
 ```
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=80&section=footer"/>
 
 </div>
 
-## 🐍 Contribution Snake
+## Contribution Snake
 <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/ShyamDeepak-03/ShyamDeepak-03/output/github-contribution-grid-snake-dark.svg"/>
