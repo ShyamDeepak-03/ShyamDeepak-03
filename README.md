@@ -182,7 +182,7 @@ Thanks for visiting. Stay curious. Stay ethical. 🔐
 
 ## 🐍 Contribution Snake
 
-
+<img src="https://raw.githubusercontent.com/ShyamDeepak-03/ShyamDeepak-03/output/github-contribution-grid-snake-dark.svg" alt="snake"/>
 <!-- <picture>
   <source media="(prefers-color-scheme: dark)" 
     srcset="https://raw.githubusercontent.com/ShyamDeepak-03/ShyamDeepak-03/output/github-contribution-grid-snake-dark.svg"/>
