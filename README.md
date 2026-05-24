@@ -181,6 +181,5 @@ Thanks for visiting. Stay curious. Stay ethical. 🔐
 </div>
 
 ## 🐍 Contribution Snake
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamDeepak-03&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&area_color=003300&hide_border=true" />
+<img src="https://ghchart.rshah.org/00ff41/ShyamDeepak-03" />
 
