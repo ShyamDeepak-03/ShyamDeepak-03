@@ -126,8 +126,9 @@
 
 ## `cat /proc/github/stats`
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShyamDeepak-03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamDeepak-03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" />
+<!-- <img height="180" src="https://github-readme-stats.vercel.app/api?username=ShyamDeepak-03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShyamDeepak-03&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9" /> -->
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=ShyamDeepak-03&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&cache_seconds=1800" />
 
 <br/>
 
