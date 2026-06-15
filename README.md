@@ -128,8 +128,7 @@
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=ShyamDeepak-03&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" />
-
+<img src="https://streak-stats.demolab.com?user=ShyamDeepak-03&theme=matrix&hide_border=true&background=0D1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41&sideLabels=00FF41&currStreakNum=00FF41&sideNums=00FF41&dates=00FF41" />
 <br/><br/>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShyamDeepak-03&bg_color=0d1117&color=00ff41&line=00ff41&point=ffffff&area=true&hide_border=true" />
