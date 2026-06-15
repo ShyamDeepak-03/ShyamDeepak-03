@@ -2,7 +2,8 @@
 
 <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Shyam%20Deepak&fontSize=70&color=0:0d1117,100:00ff41&fontColor=00ff41&animation=fadeIn&stroke=00ff41&strokeWidth=1" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%F0%9F%94%90;Penetration+Tester+%F0%9F%A7%A8;CTF+Player+%26+Exploit+Developer;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer;Penetration+Tester;CTF+Player+%26+Exploit+Developer;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" />
+<!-- <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=22&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=Cybersecurity+Engineer+%F0%9F%94%90;Penetration+Tester+%F0%9F%A7%A8;CTF+Player+%26+Exploit+Developer;Securing+the+Digital+World%2C+One+Vuln+at+a+Time" alt="Typing SVG" /> -->
 
 </div>
 
